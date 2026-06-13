@@ -74,17 +74,16 @@ Dashboard
 
 
 
-## 🎥 Demo Video
 
-Coming Soon
+Watch the project demonstration here:
 
----
+[▶️ View Demo Video](./WhatsApp%20Video%202026-06-13%20at%2011.31.20%20AM.mp4)
+
 
 ## 📄 Documentation
 
 Project Presentation available in the docs folder.
-
----
+📑 [View Project Presentation](docs/SIH2025-IDEA-Presentation-Format.pdf)
 
 ## 👥 Team
 
