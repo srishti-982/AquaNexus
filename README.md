@@ -71,16 +71,9 @@ Dashboard
 
 ---
 
-## 📸 Screenshots
 
-### Home Page
-![Home](screenshots/home.png)
 
-### Detection System
-![Detection](screenshots/detection.png)
 
-### About Project
-![About](screenshots/about.png)
 ## 🎥 Demo Video
 
 Coming Soon
