@@ -83,7 +83,7 @@ Watch the project demonstration here:
 ## 📄 Documentation
 
 Project Presentation available in the docs folder.
-📑 [View Project Presentation](docs/SIH2025-IDEA-Presentation-Format.pdf)
+📑 [View Project Presentation](docs/SIH2025-IDEA-Presentation-Format%20.pptx%20(1).pdf)
 
 ## 👥 Team
 
