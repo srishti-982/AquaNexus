@@ -1,9 +1,12 @@
 # AquaNexus
 
-## 🚀 Live Demo
-https://aqua-nexus.vercel.app/
+🌐 Live Demo: https://aqua-nexus.vercel.app/
 
-AI-powered marine organism identification system built for Smart India Hackathon 2025.
+🏆 Smart India Hackathon 2025
+
+AI-powered marine biodiversity monitoring platform using Raspberry Pi, YOLOv8, Gemini, and IPFS.
+
+
 ## Features
 - Marine organism detection
 - YOLOv8-based classification
